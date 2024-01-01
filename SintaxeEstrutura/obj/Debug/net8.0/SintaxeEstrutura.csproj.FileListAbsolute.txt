@@ -1,0 +1,14 @@
+C:\Projetos CSharp\SintaxeEstrutura\bin\Debug\net8.0\SintaxeEstrutura.exe
+C:\Projetos CSharp\SintaxeEstrutura\bin\Debug\net8.0\SintaxeEstrutura.deps.json
+C:\Projetos CSharp\SintaxeEstrutura\bin\Debug\net8.0\SintaxeEstrutura.runtimeconfig.json
+C:\Projetos CSharp\SintaxeEstrutura\bin\Debug\net8.0\SintaxeEstrutura.dll
+C:\Projetos CSharp\SintaxeEstrutura\bin\Debug\net8.0\SintaxeEstrutura.pdb
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.AssemblyInfoInputs.cache
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.AssemblyInfo.cs
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.csproj.CoreCompileInputs.cache
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.dll
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\refint\SintaxeEstrutura.dll
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.pdb
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\SintaxeEstrutura.genruntimeconfig.cache
+C:\Projetos CSharp\SintaxeEstrutura\obj\Debug\net8.0\ref\SintaxeEstrutura.dll
