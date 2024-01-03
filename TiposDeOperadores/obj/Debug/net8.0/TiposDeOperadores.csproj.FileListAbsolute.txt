@@ -1,0 +1,15 @@
+C:\Projetos CSharp\TiposDeOperadores\bin\Debug\net8.0\TiposDeOperadores.exe
+C:\Projetos CSharp\TiposDeOperadores\bin\Debug\net8.0\TiposDeOperadores.deps.json
+C:\Projetos CSharp\TiposDeOperadores\bin\Debug\net8.0\TiposDeOperadores.runtimeconfig.json
+C:\Projetos CSharp\TiposDeOperadores\bin\Debug\net8.0\TiposDeOperadores.dll
+C:\Projetos CSharp\TiposDeOperadores\bin\Debug\net8.0\TiposDeOperadores.pdb
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.AssemblyInfoInputs.cache
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.AssemblyInfo.cs
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.csproj.CoreCompileInputs.cache
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.sourcelink.json
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.dll
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\refint\TiposDeOperadores.dll
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.pdb
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\TiposDeOperadores.genruntimeconfig.cache
+C:\Projetos CSharp\TiposDeOperadores\obj\Debug\net8.0\ref\TiposDeOperadores.dll
