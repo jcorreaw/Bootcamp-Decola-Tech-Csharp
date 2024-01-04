@@ -6,4 +6,12 @@ int c = a + b;
 
 Console.WriteLine(c);
 
+//Combinando operadores
+c += 5;
+Console.WriteLine(c);
 
+c -= 4;
+Console.WriteLine(c);
+
+c *= 2;
+Console.WriteLine(c);
