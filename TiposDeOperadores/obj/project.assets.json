@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos CSharp\\TiposDeOperadores\\TiposDeOperadores.csproj",
+      "projectUniqueName": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\TiposDeOperadores\\TiposDeOperadores.csproj",
       "projectName": "TiposDeOperadores",
-      "projectPath": "C:\\Projetos CSharp\\TiposDeOperadores\\TiposDeOperadores.csproj",
+      "projectPath": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\TiposDeOperadores\\TiposDeOperadores.csproj",
       "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos CSharp\\TiposDeOperadores\\obj\\",
+      "outputPath": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\TiposDeOperadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config"

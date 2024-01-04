@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos CSharp\\SintaxeTiposDeDados\\SintaxeEstrutura.csproj",
+      "projectUniqueName": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\SintaxeTiposDeDados\\SintaxeEstrutura.csproj",
       "projectName": "SintaxeEstrutura",
-      "projectPath": "C:\\Projetos CSharp\\SintaxeTiposDeDados\\SintaxeEstrutura.csproj",
+      "projectPath": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\SintaxeTiposDeDados\\SintaxeEstrutura.csproj",
       "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos CSharp\\SintaxeTiposDeDados\\obj\\",
+      "outputPath": "C:\\Projetos CSharp\\Bootcamp-Decola-Tech-Csharp\\SintaxeTiposDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config"
