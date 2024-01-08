@@ -22,3 +22,8 @@ Console.WriteLine(converte1);
 
 int converte2 = int.Parse("2");
 Console.WriteLine(converte2);
+
+int inteiro = 5;
+string converte = inteiro.ToString();
+
+Console.WriteLine(converte);
