@@ -27,3 +27,8 @@ int inteiro = 5;
 string converte = inteiro.ToString();
 
 Console.WriteLine(converte);
+
+int a1 = 5;
+double b1 = a1;
+
+Console.WriteLine(b1);
