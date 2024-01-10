@@ -1,0 +1,15 @@
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.sourcelink.json
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Projetos CSharp\Bootcamp-Decola-Tech-Csharp\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll
